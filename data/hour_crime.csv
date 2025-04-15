@@ -1,0 +1,638 @@
+,hour,crime,count
+0,0.0,Aggravated Assault Firearm,94
+1,0.0,Aggravated Assault No Firearm,175
+2,0.0,All Other Offenses,561
+3,0.0,Arson,31
+4,0.0,Burglary Non-Residential,28
+5,0.0,Burglary Residential,95
+6,0.0,DRIVING UNDER THE INFLUENCE,52
+7,0.0,Disorderly Conduct,10
+8,0.0,Fraud,21
+9,0.0,Homicide - Criminal,5
+10,0.0,Liquor Law Violations,1
+11,0.0,Motor Vehicle Theft,221
+12,0.0,Narcotic / Drug Law Violations,12
+13,0.0,Offenses Against Family and Children,5
+14,0.0,Other Assaults,681
+15,0.0,Other Sex Offenses (Not Commercialized),12
+16,0.0,Public Drunkenness,4
+17,0.0,Rape,16
+18,0.0,Receiving Stolen Property,20
+19,0.0,Robbery Firearm,72
+20,0.0,Robbery No Firearm,68
+21,0.0,Theft from Vehicle,128
+22,0.0,Thefts,322
+23,0.0,Vandalism/Criminal Mischief,315
+24,0.0,Weapon Violations,48
+25,1.0,Aggravated Assault Firearm,78
+26,1.0,Aggravated Assault No Firearm,127
+27,1.0,All Other Offenses,400
+28,1.0,Arson,27
+29,1.0,Burglary Non-Residential,27
+30,1.0,Burglary Residential,64
+31,1.0,DRIVING UNDER THE INFLUENCE,46
+32,1.0,Disorderly Conduct,23
+33,1.0,Fraud,15
+34,1.0,Homicide - Criminal,7
+35,1.0,Liquor Law Violations,7
+36,1.0,Motor Vehicle Theft,164
+37,1.0,Narcotic / Drug Law Violations,8
+38,1.0,Offenses Against Family and Children,1
+39,1.0,Other Assaults,461
+40,1.0,Other Sex Offenses (Not Commercialized),11
+41,1.0,Public Drunkenness,5
+42,1.0,Rape,13
+43,1.0,Receiving Stolen Property,18
+44,1.0,Robbery Firearm,58
+45,1.0,Robbery No Firearm,50
+46,1.0,Theft from Vehicle,108
+47,1.0,Thefts,216
+48,1.0,Vandalism/Criminal Mischief,250
+49,1.0,Weapon Violations,45
+50,2.0,Aggravated Assault Firearm,69
+51,2.0,Aggravated Assault No Firearm,143
+52,2.0,All Other Offenses,200
+53,2.0,Arson,25
+54,2.0,Burglary Non-Residential,20
+55,2.0,Burglary Residential,48
+56,2.0,DRIVING UNDER THE INFLUENCE,49
+57,2.0,Disorderly Conduct,4
+58,2.0,Forgery and Counterfeiting,1
+59,2.0,Fraud,10
+60,2.0,Homicide - Criminal,6
+61,2.0,Liquor Law Violations,15
+62,2.0,Motor Vehicle Theft,147
+63,2.0,Narcotic / Drug Law Violations,8
+64,2.0,Offenses Against Family and Children,4
+65,2.0,Other Assaults,326
+66,2.0,Other Sex Offenses (Not Commercialized),13
+67,2.0,Rape,14
+68,2.0,Receiving Stolen Property,15
+69,2.0,Robbery Firearm,59
+70,2.0,Robbery No Firearm,38
+71,2.0,Theft from Vehicle,99
+72,2.0,Thefts,177
+73,2.0,Vandalism/Criminal Mischief,219
+74,2.0,Weapon Violations,49
+75,3.0,Aggravated Assault Firearm,56
+76,3.0,Aggravated Assault No Firearm,99
+77,3.0,All Other Offenses,137
+78,3.0,Arson,34
+79,3.0,Burglary Non-Residential,27
+80,3.0,Burglary Residential,47
+81,3.0,DRIVING UNDER THE INFLUENCE,32
+82,3.0,Disorderly Conduct,3
+83,3.0,Fraud,5
+84,3.0,Gambling Violations,1
+85,3.0,Homicide - Criminal,9
+86,3.0,Liquor Law Violations,12
+87,3.0,Motor Vehicle Theft,131
+88,3.0,Narcotic / Drug Law Violations,8
+89,3.0,Offenses Against Family and Children,1
+90,3.0,Other Assaults,244
+91,3.0,Other Sex Offenses (Not Commercialized),7
+92,3.0,Public Drunkenness,1
+93,3.0,Rape,10
+94,3.0,Receiving Stolen Property,12
+95,3.0,Robbery Firearm,55
+96,3.0,Robbery No Firearm,33
+97,3.0,Theft from Vehicle,86
+98,3.0,Thefts,123
+99,3.0,Vandalism/Criminal Mischief,209
+100,3.0,Weapon Violations,33
+101,4.0,Aggravated Assault Firearm,29
+102,4.0,Aggravated Assault No Firearm,58
+103,4.0,All Other Offenses,101
+104,4.0,Arson,26
+105,4.0,Burglary Non-Residential,30
+106,4.0,Burglary Residential,37
+107,4.0,DRIVING UNDER THE INFLUENCE,20
+108,4.0,Disorderly Conduct,7
+109,4.0,Embezzlement,2
+110,4.0,Fraud,7
+111,4.0,Homicide - Criminal,6
+112,4.0,Motor Vehicle Theft,179
+113,4.0,Narcotic / Drug Law Violations,8
+114,4.0,Offenses Against Family and Children,1
+115,4.0,Other Assaults,191
+116,4.0,Other Sex Offenses (Not Commercialized),5
+117,4.0,Public Drunkenness,2
+118,4.0,Rape,12
+119,4.0,Receiving Stolen Property,12
+120,4.0,Robbery Firearm,35
+121,4.0,Robbery No Firearm,46
+122,4.0,Theft from Vehicle,87
+123,4.0,Thefts,123
+124,4.0,Vandalism/Criminal Mischief,149
+125,4.0,Weapon Violations,28
+126,5.0,Aggravated Assault Firearm,27
+127,5.0,Aggravated Assault No Firearm,57
+128,5.0,All Other Offenses,96
+129,5.0,Arson,23
+130,5.0,Burglary Non-Residential,26
+131,5.0,Burglary Residential,35
+132,5.0,DRIVING UNDER THE INFLUENCE,16
+133,5.0,Disorderly Conduct,5
+134,5.0,Fraud,9
+135,5.0,Homicide - Criminal,1
+136,5.0,Motor Vehicle Theft,169
+137,5.0,Narcotic / Drug Law Violations,6
+138,5.0,Offenses Against Family and Children,2
+139,5.0,Other Assaults,141
+140,5.0,Other Sex Offenses (Not Commercialized),6
+141,5.0,Rape,6
+142,5.0,Receiving Stolen Property,5
+143,5.0,Robbery Firearm,34
+144,5.0,Robbery No Firearm,37
+145,5.0,Theft from Vehicle,126
+146,5.0,Thefts,170
+147,5.0,Vagrancy/Loitering,1
+148,5.0,Vandalism/Criminal Mischief,161
+149,5.0,Weapon Violations,17
+150,6.0,Aggravated Assault Firearm,24
+151,6.0,Aggravated Assault No Firearm,41
+152,6.0,All Other Offenses,183
+153,6.0,Arson,10
+154,6.0,Burglary Non-Residential,14
+155,6.0,Burglary Residential,31
+156,6.0,DRIVING UNDER THE INFLUENCE,9
+157,6.0,Disorderly Conduct,5
+158,6.0,Embezzlement,1
+159,6.0,Fraud,14
+160,6.0,Homicide - Criminal,3
+161,6.0,Motor Vehicle Theft,140
+162,6.0,Narcotic / Drug Law Violations,11
+163,6.0,Offenses Against Family and Children,3
+164,6.0,Other Assaults,128
+165,6.0,Other Sex Offenses (Not Commercialized),7
+166,6.0,Rape,5
+167,6.0,Receiving Stolen Property,7
+168,6.0,Robbery Firearm,12
+169,6.0,Robbery No Firearm,21
+170,6.0,Theft from Vehicle,93
+171,6.0,Thefts,156
+172,6.0,Vagrancy/Loitering,6
+173,6.0,Vandalism/Criminal Mischief,129
+174,6.0,Weapon Violations,28
+175,7.0,Aggravated Assault Firearm,30
+176,7.0,Aggravated Assault No Firearm,72
+177,7.0,All Other Offenses,159
+178,7.0,Arson,14
+179,7.0,Burglary Non-Residential,51
+180,7.0,Burglary Residential,44
+181,7.0,DRIVING UNDER THE INFLUENCE,7
+182,7.0,Disorderly Conduct,7
+183,7.0,Embezzlement,1
+184,7.0,Fraud,54
+185,7.0,Homicide - Criminal,1
+186,7.0,Motor Vehicle Theft,506
+187,7.0,Narcotic / Drug Law Violations,19
+188,7.0,Offenses Against Family and Children,1
+189,7.0,Other Assaults,276
+190,7.0,Other Sex Offenses (Not Commercialized),16
+191,7.0,Rape,6
+192,7.0,Receiving Stolen Property,21
+193,7.0,Robbery Firearm,22
+194,7.0,Robbery No Firearm,42
+195,7.0,Theft from Vehicle,411
+196,7.0,Thefts,537
+197,7.0,Vagrancy/Loitering,4
+198,7.0,Vandalism/Criminal Mischief,328
+199,7.0,Weapon Violations,40
+200,8.0,Aggravated Assault Firearm,55
+201,8.0,Aggravated Assault No Firearm,125
+202,8.0,All Other Offenses,281
+203,8.0,Arson,16
+204,8.0,Burglary Non-Residential,100
+205,8.0,Burglary Residential,125
+206,8.0,DRIVING UNDER THE INFLUENCE,13
+207,8.0,Disorderly Conduct,5
+208,8.0,Embezzlement,4
+209,8.0,Forgery and Counterfeiting,3
+210,8.0,Fraud,194
+211,8.0,Homicide - Criminal,6
+212,8.0,Motor Vehicle Theft,960
+213,8.0,Narcotic / Drug Law Violations,61
+214,8.0,Offenses Against Family and Children,8
+215,8.0,Other Assaults,624
+216,8.0,Other Sex Offenses (Not Commercialized),93
+217,8.0,Public Drunkenness,1
+218,8.0,Rape,8
+219,8.0,Receiving Stolen Property,44
+220,8.0,Robbery Firearm,25
+221,8.0,Robbery No Firearm,57
+222,8.0,Theft from Vehicle,717
+223,8.0,Thefts,1143
+224,8.0,Vandalism/Criminal Mischief,628
+225,8.0,Weapon Violations,38
+226,9.0,Aggravated Assault Firearm,57
+227,9.0,Aggravated Assault No Firearm,166
+228,9.0,All Other Offenses,551
+229,9.0,Arson,8
+230,9.0,Burglary Non-Residential,101
+231,9.0,Burglary Residential,137
+232,9.0,DRIVING UNDER THE INFLUENCE,7
+233,9.0,Disorderly Conduct,10
+234,9.0,Embezzlement,11
+235,9.0,Forgery and Counterfeiting,11
+236,9.0,Fraud,320
+237,9.0,Homicide - Criminal,5
+238,9.0,Liquor Law Violations,1
+239,9.0,Motor Vehicle Theft,822
+240,9.0,Narcotic / Drug Law Violations,105
+241,9.0,Offenses Against Family and Children,21
+242,9.0,Other Assaults,876
+243,9.0,Other Sex Offenses (Not Commercialized),67
+244,9.0,Rape,10
+245,9.0,Receiving Stolen Property,54
+246,9.0,Robbery Firearm,26
+247,9.0,Robbery No Firearm,78
+248,9.0,Theft from Vehicle,678
+249,9.0,Thefts,1395
+250,9.0,Vagrancy/Loitering,1
+251,9.0,Vandalism/Criminal Mischief,600
+252,9.0,Weapon Violations,43
+253,10.0,Aggravated Assault Firearm,57
+254,10.0,Aggravated Assault No Firearm,171
+255,10.0,All Other Offenses,519
+256,10.0,Arson,14
+257,10.0,Burglary Non-Residential,109
+258,10.0,Burglary Residential,173
+259,10.0,DRIVING UNDER THE INFLUENCE,9
+260,10.0,Disorderly Conduct,11
+261,10.0,Embezzlement,8
+262,10.0,Forgery and Counterfeiting,8
+263,10.0,Fraud,432
+264,10.0,Liquor Law Violations,2
+265,10.0,Motor Vehicle Theft,701
+266,10.0,Narcotic / Drug Law Violations,92
+267,10.0,Offenses Against Family and Children,25
+268,10.0,Other Assaults,991
+269,10.0,Other Sex Offenses (Not Commercialized),42
+270,10.0,Rape,18
+271,10.0,Receiving Stolen Property,60
+272,10.0,Robbery Firearm,33
+273,10.0,Robbery No Firearm,77
+274,10.0,Theft from Vehicle,541
+275,10.0,Thefts,1622
+276,10.0,Vagrancy/Loitering,2
+277,10.0,Vandalism/Criminal Mischief,567
+278,10.0,Weapon Violations,55
+279,11.0,Aggravated Assault Firearm,85
+280,11.0,Aggravated Assault No Firearm,155
+281,11.0,All Other Offenses,463
+282,11.0,Arson,17
+283,11.0,Burglary Non-Residential,86
+284,11.0,Burglary Residential,137
+285,11.0,DRIVING UNDER THE INFLUENCE,8
+286,11.0,Disorderly Conduct,11
+287,11.0,Embezzlement,17
+288,11.0,Forgery and Counterfeiting,8
+289,11.0,Fraud,502
+290,11.0,Homicide - Criminal,7
+291,11.0,Liquor Law Violations,2
+292,11.0,Motor Vehicle Theft,688
+293,11.0,Narcotic / Drug Law Violations,105
+294,11.0,Offenses Against Family and Children,5
+295,11.0,Other Assaults,1033
+296,11.0,Other Sex Offenses (Not Commercialized),46
+297,11.0,Prostitution and Commercialized Vice,1
+298,11.0,Public Drunkenness,1
+299,11.0,Rape,16
+300,11.0,Receiving Stolen Property,52
+301,11.0,Robbery Firearm,23
+302,11.0,Robbery No Firearm,97
+303,11.0,Theft from Vehicle,532
+304,11.0,Thefts,1833
+305,11.0,Vandalism/Criminal Mischief,541
+306,11.0,Weapon Violations,63
+307,12.0,Aggravated Assault Firearm,94
+308,12.0,Aggravated Assault No Firearm,183
+309,12.0,All Other Offenses,436
+310,12.0,Arson,17
+311,12.0,Burglary Non-Residential,74
+312,12.0,Burglary Residential,132
+313,12.0,DRIVING UNDER THE INFLUENCE,3
+314,12.0,Disorderly Conduct,9
+315,12.0,Embezzlement,19
+316,12.0,Forgery and Counterfeiting,13
+317,12.0,Fraud,501
+318,12.0,Gambling Violations,3
+319,12.0,Homicide - Criminal,1
+320,12.0,Liquor Law Violations,1
+321,12.0,Motor Vehicle Theft,583
+322,12.0,Narcotic / Drug Law Violations,114
+323,12.0,Offenses Against Family and Children,13
+324,12.0,Other Assaults,1146
+325,12.0,Other Sex Offenses (Not Commercialized),35
+326,12.0,Prostitution and Commercialized Vice,11
+327,12.0,Public Drunkenness,1
+328,12.0,Rape,9
+329,12.0,Receiving Stolen Property,48
+330,12.0,Robbery Firearm,40
+331,12.0,Robbery No Firearm,83
+332,12.0,Theft from Vehicle,488
+333,12.0,Thefts,2029
+334,12.0,Vandalism/Criminal Mischief,568
+335,12.0,Weapon Violations,73
+336,13.0,Aggravated Assault Firearm,83
+337,13.0,Aggravated Assault No Firearm,217
+338,13.0,All Other Offenses,504
+339,13.0,Arson,17
+340,13.0,Burglary Non-Residential,46
+341,13.0,Burglary Residential,120
+342,13.0,DRIVING UNDER THE INFLUENCE,19
+343,13.0,Disorderly Conduct,12
+344,13.0,Embezzlement,19
+345,13.0,Forgery and Counterfeiting,15
+346,13.0,Fraud,485
+347,13.0,Homicide - Criminal,6
+348,13.0,Liquor Law Violations,1
+349,13.0,Motor Vehicle Theft,472
+350,13.0,Narcotic / Drug Law Violations,106
+351,13.0,Offenses Against Family and Children,10
+352,13.0,Other Assaults,1057
+353,13.0,Other Sex Offenses (Not Commercialized),44
+354,13.0,Prostitution and Commercialized Vice,40
+355,13.0,Public Drunkenness,2
+356,13.0,Rape,13
+357,13.0,Receiving Stolen Property,49
+358,13.0,Robbery Firearm,32
+359,13.0,Robbery No Firearm,94
+360,13.0,Theft from Vehicle,445
+361,13.0,Thefts,1971
+362,13.0,Vandalism/Criminal Mischief,461
+363,13.0,Weapon Violations,78
+364,14.0,Aggravated Assault Firearm,84
+365,14.0,Aggravated Assault No Firearm,141
+366,14.0,All Other Offenses,392
+367,14.0,Arson,16
+368,14.0,Burglary Non-Residential,18
+369,14.0,Burglary Residential,73
+370,14.0,DRIVING UNDER THE INFLUENCE,7
+371,14.0,Disorderly Conduct,10
+372,14.0,Embezzlement,7
+373,14.0,Forgery and Counterfeiting,10
+374,14.0,Fraud,379
+375,14.0,Homicide - Criminal,11
+376,14.0,Motor Vehicle Theft,296
+377,14.0,Narcotic / Drug Law Violations,93
+378,14.0,Offenses Against Family and Children,13
+379,14.0,Other Assaults,886
+380,14.0,Other Sex Offenses (Not Commercialized),37
+381,14.0,Prostitution and Commercialized Vice,19
+382,14.0,Public Drunkenness,3
+383,14.0,Rape,9
+384,14.0,Receiving Stolen Property,32
+385,14.0,Robbery Firearm,30
+386,14.0,Robbery No Firearm,73
+387,14.0,Theft from Vehicle,294
+388,14.0,Thefts,1484
+389,14.0,Vandalism/Criminal Mischief,327
+390,14.0,Weapon Violations,57
+391,15.0,Aggravated Assault Firearm,86
+392,15.0,Aggravated Assault No Firearm,181
+393,15.0,All Other Offenses,365
+394,15.0,Arson,14
+395,15.0,Burglary Non-Residential,51
+396,15.0,Burglary Residential,124
+397,15.0,DRIVING UNDER THE INFLUENCE,6
+398,15.0,Disorderly Conduct,7
+399,15.0,Embezzlement,11
+400,15.0,Forgery and Counterfeiting,10
+401,15.0,Fraud,460
+402,15.0,Gambling Violations,2
+403,15.0,Homicide - Criminal,4
+404,15.0,Motor Vehicle Theft,423
+405,15.0,Narcotic / Drug Law Violations,80
+406,15.0,Offenses Against Family and Children,12
+407,15.0,Other Assaults,1094
+408,15.0,Other Sex Offenses (Not Commercialized),38
+409,15.0,Prostitution and Commercialized Vice,1
+410,15.0,Rape,16
+411,15.0,Receiving Stolen Property,37
+412,15.0,Robbery Firearm,42
+413,15.0,Robbery No Firearm,89
+414,15.0,Theft from Vehicle,370
+415,15.0,Thefts,1875
+416,15.0,Vagrancy/Loitering,1
+417,15.0,Vandalism/Criminal Mischief,454
+418,15.0,Weapon Violations,52
+419,16.0,Aggravated Assault Firearm,110
+420,16.0,Aggravated Assault No Firearm,230
+421,16.0,All Other Offenses,558
+422,16.0,Arson,11
+423,16.0,Burglary Non-Residential,51
+424,16.0,Burglary Residential,189
+425,16.0,DRIVING UNDER THE INFLUENCE,9
+426,16.0,Disorderly Conduct,13
+427,16.0,Embezzlement,19
+428,16.0,Forgery and Counterfeiting,5
+429,16.0,Fraud,523
+430,16.0,Homicide - Criminal,7
+431,16.0,Liquor Law Violations,1
+432,16.0,Motor Vehicle Theft,615
+433,16.0,Narcotic / Drug Law Violations,156
+434,16.0,Offenses Against Family and Children,21
+435,16.0,Other Assaults,1343
+436,16.0,Other Sex Offenses (Not Commercialized),64
+437,16.0,Prostitution and Commercialized Vice,3
+438,16.0,Rape,24
+439,16.0,Receiving Stolen Property,56
+440,16.0,Robbery Firearm,44
+441,16.0,Robbery No Firearm,103
+442,16.0,Theft from Vehicle,491
+443,16.0,Thefts,2403
+444,16.0,Vandalism/Criminal Mischief,627
+445,16.0,Weapon Violations,76
+446,17.0,Aggravated Assault Firearm,128
+447,17.0,Aggravated Assault No Firearm,223
+448,17.0,All Other Offenses,546
+449,17.0,Arson,16
+450,17.0,Burglary Non-Residential,26
+451,17.0,Burglary Residential,149
+452,17.0,DRIVING UNDER THE INFLUENCE,19
+453,17.0,Disorderly Conduct,9
+454,17.0,Embezzlement,8
+455,17.0,Forgery and Counterfeiting,5
+456,17.0,Fraud,424
+457,17.0,Gambling Violations,10
+458,17.0,Homicide - Criminal,7
+459,17.0,Motor Vehicle Theft,501
+460,17.0,Narcotic / Drug Law Violations,233
+461,17.0,Offenses Against Family and Children,20
+462,17.0,Other Assaults,1261
+463,17.0,Other Sex Offenses (Not Commercialized),47
+464,17.0,Prostitution and Commercialized Vice,4
+465,17.0,Public Drunkenness,1
+466,17.0,Rape,31
+467,17.0,Receiving Stolen Property,75
+468,17.0,Robbery Firearm,60
+469,17.0,Robbery No Firearm,99
+470,17.0,Theft from Vehicle,367
+471,17.0,Thefts,2102
+472,17.0,Vagrancy/Loitering,1
+473,17.0,Vandalism/Criminal Mischief,598
+474,17.0,Weapon Violations,133
+475,18.0,Aggravated Assault Firearm,104
+476,18.0,Aggravated Assault No Firearm,207
+477,18.0,All Other Offenses,481
+478,18.0,Arson,17
+479,18.0,Burglary Non-Residential,25
+480,18.0,Burglary Residential,124
+481,18.0,DRIVING UNDER THE INFLUENCE,27
+482,18.0,Disorderly Conduct,14
+483,18.0,Embezzlement,7
+484,18.0,Forgery and Counterfeiting,7
+485,18.0,Fraud,337
+486,18.0,Gambling Violations,2
+487,18.0,Homicide - Criminal,7
+488,18.0,Liquor Law Violations,3
+489,18.0,Motor Vehicle Theft,386
+490,18.0,Narcotic / Drug Law Violations,213
+491,18.0,Offenses Against Family and Children,33
+492,18.0,Other Assaults,1147
+493,18.0,Other Sex Offenses (Not Commercialized),30
+494,18.0,Prostitution and Commercialized Vice,4
+495,18.0,Rape,18
+496,18.0,Receiving Stolen Property,51
+497,18.0,Robbery Firearm,58
+498,18.0,Robbery No Firearm,88
+499,18.0,Theft from Vehicle,329
+500,18.0,Thefts,1878
+501,18.0,Vandalism/Criminal Mischief,458
+502,18.0,Weapon Violations,157
+503,19.0,Aggravated Assault Firearm,103
+504,19.0,Aggravated Assault No Firearm,184
+505,19.0,All Other Offenses,422
+506,19.0,Arson,27
+507,19.0,Burglary Non-Residential,21
+508,19.0,Burglary Residential,113
+509,19.0,DRIVING UNDER THE INFLUENCE,22
+510,19.0,Disorderly Conduct,18
+511,19.0,Embezzlement,6
+512,19.0,Forgery and Counterfeiting,3
+513,19.0,Fraud,235
+514,19.0,Homicide - Criminal,9
+515,19.0,Liquor Law Violations,5
+516,19.0,Motor Vehicle Theft,372
+517,19.0,Narcotic / Drug Law Violations,172
+518,19.0,Offenses Against Family and Children,17
+519,19.0,Other Assaults,1006
+520,19.0,Other Sex Offenses (Not Commercialized),46
+521,19.0,Prostitution and Commercialized Vice,36
+522,19.0,Rape,26
+523,19.0,Receiving Stolen Property,40
+524,19.0,Robbery Firearm,63
+525,19.0,Robbery No Firearm,91
+526,19.0,Theft from Vehicle,266
+527,19.0,Thefts,1528
+528,19.0,Vandalism/Criminal Mischief,433
+529,19.0,Weapon Violations,161
+530,20.0,Aggravated Assault Firearm,96
+531,20.0,Aggravated Assault No Firearm,199
+532,20.0,All Other Offenses,363
+533,20.0,Arson,23
+534,20.0,Burglary Non-Residential,16
+535,20.0,Burglary Residential,79
+536,20.0,DRIVING UNDER THE INFLUENCE,26
+537,20.0,Disorderly Conduct,18
+538,20.0,Embezzlement,5
+539,20.0,Forgery and Counterfeiting,1
+540,20.0,Fraud,180
+541,20.0,Gambling Violations,1
+542,20.0,Homicide - Criminal,11
+543,20.0,Homicide - Justifiable,1
+544,20.0,Liquor Law Violations,9
+545,20.0,Motor Vehicle Theft,327
+546,20.0,Narcotic / Drug Law Violations,170
+547,20.0,Offenses Against Family and Children,4
+548,20.0,Other Assaults,881
+549,20.0,Other Sex Offenses (Not Commercialized),25
+550,20.0,Prostitution and Commercialized Vice,31
+551,20.0,Public Drunkenness,2
+552,20.0,Rape,12
+553,20.0,Receiving Stolen Property,43
+554,20.0,Robbery Firearm,73
+555,20.0,Robbery No Firearm,91
+556,20.0,Theft from Vehicle,204
+557,20.0,Thefts,1356
+558,20.0,Vandalism/Criminal Mischief,392
+559,20.0,Weapon Violations,173
+560,21.0,Aggravated Assault Firearm,119
+561,21.0,Aggravated Assault No Firearm,180
+562,21.0,All Other Offenses,432
+563,21.0,Arson,17
+564,21.0,Burglary Non-Residential,11
+565,21.0,Burglary Residential,74
+566,21.0,DRIVING UNDER THE INFLUENCE,74
+567,21.0,Disorderly Conduct,14
+568,21.0,Fraud,100
+569,21.0,Homicide - Criminal,16
+570,21.0,Liquor Law Violations,2
+571,21.0,Motor Vehicle Theft,237
+572,21.0,Narcotic / Drug Law Violations,86
+573,21.0,Offenses Against Family and Children,9
+574,21.0,Other Assaults,763
+575,21.0,Other Sex Offenses (Not Commercialized),28
+576,21.0,Prostitution and Commercialized Vice,8
+577,21.0,Rape,17
+578,21.0,Receiving Stolen Property,28
+579,21.0,Robbery Firearm,71
+580,21.0,Robbery No Firearm,79
+581,21.0,Theft from Vehicle,150
+582,21.0,Thefts,879
+583,21.0,Vandalism/Criminal Mischief,340
+584,21.0,Weapon Violations,140
+585,22.0,Aggravated Assault Firearm,101
+586,22.0,Aggravated Assault No Firearm,128
+587,22.0,All Other Offenses,769
+588,22.0,Arson,13
+589,22.0,Burglary Non-Residential,8
+590,22.0,Burglary Residential,45
+591,22.0,DRIVING UNDER THE INFLUENCE,80
+592,22.0,Disorderly Conduct,10
+593,22.0,Embezzlement,2
+594,22.0,Fraud,34
+595,22.0,Homicide - Criminal,11
+596,22.0,Liquor Law Violations,2
+597,22.0,Motor Vehicle Theft,144
+598,22.0,Narcotic / Drug Law Violations,43
+599,22.0,Offenses Against Family and Children,5
+600,22.0,Other Assaults,535
+601,22.0,Other Sex Offenses (Not Commercialized),11
+602,22.0,Prostitution and Commercialized Vice,1
+603,22.0,Rape,8
+604,22.0,Receiving Stolen Property,18
+605,22.0,Robbery Firearm,48
+606,22.0,Robbery No Firearm,66
+607,22.0,Theft from Vehicle,82
+608,22.0,Thefts,379
+609,22.0,Vandalism/Criminal Mischief,209
+610,22.0,Weapon Violations,135
+611,23.0,Aggravated Assault Firearm,106
+612,23.0,Aggravated Assault No Firearm,147
+613,23.0,All Other Offenses,496
+614,23.0,Arson,32
+615,23.0,Burglary Non-Residential,25
+616,23.0,Burglary Residential,65
+617,23.0,DRIVING UNDER THE INFLUENCE,44
+618,23.0,Disorderly Conduct,10
+619,23.0,Fraud,39
+620,23.0,Homicide - Criminal,24
+621,23.0,Liquor Law Violations,3
+622,23.0,Motor Vehicle Theft,227
+623,23.0,Narcotic / Drug Law Violations,23
+624,23.0,Offenses Against Family and Children,3
+625,23.0,Other Assaults,549
+626,23.0,Other Sex Offenses (Not Commercialized),9
+627,23.0,Prostitution and Commercialized Vice,3
+628,23.0,Public Drunkenness,2
+629,23.0,Rape,7
+630,23.0,Receiving Stolen Property,23
+631,23.0,Robbery Firearm,60
+632,23.0,Robbery No Firearm,65
+633,23.0,Theft from Vehicle,128
+634,23.0,Thefts,408
+635,23.0,Vandalism/Criminal Mischief,325
+636,23.0,Weapon Violations,83
